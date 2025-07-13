@@ -1,0 +1,5 @@
+{
+  "name": "Implicit Growth Calculator",
+  "description": "An application to calculate the implicit growth rate of a stock using the Free Cash Flow perpetuity formula. It fetches real-time stock price, FCF per share, and WACC, and allows users to modify these variables to see how they affect the growth rate.",
+  "requestFramePermissions": []
+}
