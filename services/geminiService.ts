@@ -4,7 +4,7 @@ import type { FinancialData, GeminiApiResponse, GroundingSource } from '../types
 
 // IMPORTANT: Replace "YOUR_API_KEY_HERE" with your actual Google Gemini API Key.
 // This is the ONLY place you need to change.
-const API_KEY = "AIzaSyA1rw2m80_NuClW7LVHY8GsAXJVa1yE1Do";
+const API_KEY = "AIzaSyBL1gyvGJFIZX2w0cBXFAUmxf9iE2Rc1b8";
 
 function buildPrompt(company: string): string {
     return `
